@@ -15,8 +15,6 @@ public class Test1 {
 		driver.get("https://dashboard.gotowebinar.com/contentLibrary");
 		System.out.println("Hello Child Branch");
 		System.out.println("Hello Shammi");
-		System.out.println("Hello Github");
-		System.out.println("Hello aBranch");
 	}
 
 }
